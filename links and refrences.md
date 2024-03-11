@@ -8,3 +8,6 @@ Developer journey map:
 how to design a developer journey map so we can make it easy for our developer consumer to use our api
 
 answer : 
+
+
+https://razorpay.com/docs/api/payments/capture/
